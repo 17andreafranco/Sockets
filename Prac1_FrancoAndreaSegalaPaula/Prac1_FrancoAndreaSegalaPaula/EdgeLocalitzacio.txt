@@ -1,0 +1,6 @@
+Europa,Barcelona;192.168.255.254;4444
+America,Dallas;192.168.255.255;4445
+Europa,Paris;192.168.255.25;4446
+Europa,Roma;192.168.255.26;4447
+Europa,Hamburg;192.168.255.27;4448
+America,Chicago;192.168.255.29;4449
